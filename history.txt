@@ -1,3 +1,9 @@
 git init
 npm i @vue/cli
 vue create . <==> .\node_modules\.bin\vue create .
+.\node_modules\.bin\vue add vuetify
+
+### create app, then add router
+### default action npm i vue-router failed, because it's version 3, incompatible with 2
+### so, need version 2
+npm i vue-router@2
