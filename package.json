@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "version": "",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "~5.0.0",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "_id": "@",
+  "readme": "ERROR: No README data found!"
+}
