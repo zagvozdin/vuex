@@ -7,3 +7,4 @@ vue create . <==> .\node_modules\.bin\vue create .
 ### default action npm i vue-router failed, because it's version 3, incompatible with 2
 ### so, need version 2
 npm i vue-router@2
+npm i axios

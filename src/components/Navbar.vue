@@ -1,8 +1,12 @@
 <template>
-  <v-app-bar color="#6A1B9A">
+  <v-app-bar color="primary">
     <v-spacer></v-spacer>
-    <v-btn outlined class="ml-3">Главная</v-btn>
-    <v-btn outlined class="ml-3">Фото</v-btn>
+    <v-btn outlined class="ml-3 white">
+      <router-link to="/">Главная</router-link>
+    </v-btn>
+    <v-btn outlined class="ml-3 white">
+      <router-link to="/photo">Фото</router-link></v-btn
+    >
   </v-app-bar>
 </template>
 <script>

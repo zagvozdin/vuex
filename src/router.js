@@ -8,7 +8,7 @@ const routes = [
     component: ()=>import('@/Pages/MainPage.vue'),
   },{
     path: '/photo',
-    component: ()=>import('@/Pages/PhotoPage.vue'),
+    component: ()=>import('@/Pages/PhotosPage.vue'),
   },
 ]
 
